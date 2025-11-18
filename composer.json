@@ -1,0 +1,17 @@
+{
+    "name": "greekasoft/otus-test-packade",
+    "description": "тестовый пакет для задачи отус",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Greekasoft\\OtusTestPackade\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Morozov",
+            "email": "GreekIgor87@gmail.com"
+        }
+    ],
+    "require": {}
+}
