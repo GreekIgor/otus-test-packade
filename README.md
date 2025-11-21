@@ -12,5 +12,5 @@ composer require greekasoft/otus-test-packade
 
 ## Использование
 
-$class = new Class();
+$class = new TestPackade();
 echo $class->Test();
