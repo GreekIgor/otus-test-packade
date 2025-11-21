@@ -11,5 +11,10 @@ class TestPackade{
     {
         return 'Test packade';
     }
+
+    public function Test2()
+    {
+        return 'Test fix 2';
+    }
 	
 }
