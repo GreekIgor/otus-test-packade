@@ -13,5 +13,5 @@
             "email": "GreekIgor87@gmail.com"
         }
     ],
-    "require": {}
+    "require": {"php": ">=8.2"}
 }
